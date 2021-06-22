@@ -3,7 +3,7 @@ Python dasturlash tili orqali o'yin dastur: Python Flappy Bird
 
 ## Loyihani ishga tushirish uchun 
 
-* Install python >= 3.9 from [here](https://www.python.org/downloads/)
+* Install python >= 3.7.7 from [here](https://www.python.org/downloads/)
 * Install PyGame library ( PyGame kutubxonasini o`rnatish):
   ```
    $ pip install pygame
